@@ -1,0 +1,36 @@
+.last-project{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.project-content{
+    padding: .5rem;
+    box-shadow: 2px 2px 3px 3px  rgb(242, 242, 242);
+}
+
+.img-content{
+    padding: 1.6rem;
+    background-color: rgb(236, 236, 236);
+    border-radius: 4px;
+}
+
+.img-content img{
+    width: 250px;
+    height: 190px;
+    object-fit: cover;
+}
+
+.desc{
+    padding: 1rem 0;
+    text-transform: uppercase;
+}
+
+.desc h3{
+    font-size: 1.4em;
+}
+.desc p{
+    color: rgb(96, 96, 96);
+}
