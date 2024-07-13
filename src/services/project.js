@@ -9,18 +9,18 @@ export const project = [
     }, 
     {
         id: 2,
-        title: '',
-        subtitle: '',
-        techno: '',
+        title: "Application desktop de gestion d'inventaire de plantes de Cannnabis",
+        subtitle: 'eCanabis',
+        techno: 'C#,WPF,SQLITE',
         image: 'eCanabis.jpg.png',
-        description: ''
+        description: 'Une application desktop dédiée à la gestion des données liées aux plantes de cannabis, offrant les fonctionnalités suivantes : ajout de données sur les plantes, modification et suppression des informations, ainsi que la génération de QR Codes pour chaque plante.'
     }, 
     {
         id: 3,
-        title: '',
-        subtitle:'',
-        techno: '',
+        title: 'BlogDB',
+        subtitle:'BlogDB',
+        techno: 'JAVA, MONGODB',
         image: 'bg.jpg',
-        description: ''
+        description: "Conception et implémentation de la structure de la base de données MongoDB pour une application de blog permettant aux utilisateurs de créer, éditer, supprimer des articles (posts), de récupérer tous les articles, d'afficher un article individuel, et de commenter les articles."
     }, 
 ]

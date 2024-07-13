@@ -27,9 +27,9 @@ const Portfolio = () => {
 
       <div className="projet">
        
-        <h2>Projet 3: Plateforme de Blog</h2>
+        <h2>Projet 3: BlogDB</h2>
         <p>
-          Une plateforme de blog où les utilisateurs peuvent créer des comptes, publier des articles, et commenter les publications.
+        Conception et implémentation de la structure de la base de données MongoDB pour une application de blog permettant aux utilisateurs de créer, éditer, supprimer des articles (posts), de récupérer tous les articles, d'afficher un article individuel, et de commenter les articles.
         </p>
         <p><strong>Technologies utilisées:</strong> Java, MongoDB</p>
       </div>

@@ -22,7 +22,8 @@ const Apropos = ({ setContent }) => {
         <li>Outils et frameworks : Git, Node.js</li>
       </ul>
       <p>
-        Je suis actuellement à la recherche de nouvelles opportunités de collaboration et de projets freelance. N'hésitez pas à me <a href="#" onClick={() => setContent(<Contact />)}>contacter</a> pour discuter de votre projet.
+        Je suis actuellement à la recherche de nouvelles opportunités de collaboration et de projets freelance. 
+        N'hésitez pas à me <a href="#" onClick={() => setContent(<Contact />)}>contacter</a> pour discuter de votre projet.
       </p>
     </div>
   );
